@@ -1,0 +1,8 @@
+body{
+    overflow-x: hidden;
+    font-family: 'Poppins', sans-serif;
+}
+
+.nav-link{
+   margin-right: 30px;
+}
