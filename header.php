@@ -7,6 +7,8 @@
 <link rel="stylesheet" href="css/slick.css">
 <!-- styles -->
 <link rel="stylesheet" href="css/style.css">
+<!-- Fonts -->
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet">
 </head>
 
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
