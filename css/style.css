@@ -6,3 +6,32 @@ body{
 .nav-link{
    margin-right: 30px;
 }
+
+
+/* next event section */
+
+.nextEvent h1{
+ font-size: 80px;
+ font-weight: bolder;
+}
+
+/* flex box distance wala */
+.flex-container {
+    display: flex;
+    flex-wrap: nowrap;
+  }
+  
+  .flex-container > div {
+    padding-top: 10px;
+    padding: 0px 100px;
+    width: 70%;
+    margin: 0px 20px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 10px;
+  }
+
+.eventPng{
+    height: 40px;
+    margin-right: 5px;
+}
