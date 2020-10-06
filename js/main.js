@@ -12,6 +12,8 @@ $(document).ready(function() {
     });
   });
 
+
+
 $(document).ready(function(){
     $('.banner-area').slick({
         autoplay: true,
