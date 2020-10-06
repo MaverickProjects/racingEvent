@@ -3,6 +3,8 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
+/* Navbar */
+
 .nav-link{
    margin-right: 30px;
 }
@@ -35,3 +37,65 @@ body{
     height: 40px;
     margin-right: 5px;
 }
+.nav-item{
+    font-weight: 600;
+}
+
+.navbar-brand{
+    font-weight: 800;
+    font-size: 25px;
+}
+
+.bg-light
+{
+    background-color: transparent !important;
+}
+
+.test{
+    background-color: white !important;
+}
+
+/* Slider */
+
+.single-banner{
+	position: relative;
+}
+
+.single-banner .banner-img{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+
+.banner-img img{
+	width: 100%;
+	height: 100vh;
+}
+
+.banner-txt{
+	position: absolute;
+	top: 50%;
+	left: 30%;
+	transform: translate(-50% , -50%);
+	text-align: center;
+}
+
+.banner-txt h2{
+	font-size: 85px;
+	text-transform: uppercase;
+	color: #fff;
+	margin: 0;
+	font-weight: 700;
+}
+
+.banner-txt p{
+	color: #fff;
+	padding-bottom: 10px;
+	font-size: 20px;
+}
+
+
+
+
+
+
