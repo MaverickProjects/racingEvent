@@ -66,8 +66,31 @@ body{
 	font-size: 20px;
 }
 
+/* Next Event */
 
+.nextEvent h1{
+	font-size: 100px;
+	font-weight: 700;
+}
 
+.ned img{
+	height: 40px;
+	margin-right: 5px;
+}
 
+.ned{
 
+	font-weight: 600;
+	font-size: 30px;
 
+}
+
+.nec{
+	display: flex;
+	justify-content: space-between;
+}
+
+#demo{
+	font-size: 40px;
+	font-weight: 600;
+}
