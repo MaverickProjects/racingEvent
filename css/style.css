@@ -74,15 +74,14 @@ body{
 }
 
 .ned img{
-	height: 40px;
+	height: 35px;
 	margin-right: 5px;
 }
 
 .ned{
 
 	font-weight: 600;
-	font-size: 30px;
-
+	font-size: 20px;
 }
 
 .nec{
@@ -93,4 +92,140 @@ body{
 #demo{
 	font-size: 40px;
 	font-weight: 600;
+}
+
+
+/* our mission  */
+
+.om{
+	padding-top: 200px;
+	color: #fff;
+}
+
+.om img{
+	max-width: 100%;
+}
+
+.omh{
+	font-size: 20px;
+	font-weight: 500;
+}
+
+.omr{
+	background-color: #303A52;
+}
+
+.om p{
+	padding: 20px 20px;
+}
+
+.om h4{
+	padding: 20px 20px;
+}
+
+.om h1{
+	font-weight: 700;
+	font-size: 45px;
+	padding-top: 80px;
+}
+
+
+/* Event Route  */
+
+.er{
+	padding-top: 100px;
+}
+
+.er img{
+	width: 80%;
+}
+
+.er h1{
+	font-weight: 700;
+	font-size: 45px;
+}
+
+.er h4{
+	font-weight: 600;
+}
+
+/* scard */
+
+.facilities{
+	padding-top: 120px;
+	padding-bottom: 120px;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.facilities img{
+	height: 50px;
+	margin-right: 10px;
+}
+
+.scard{
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+	padding: 50px 40px;
+}
+
+
+/* footer */
+hr.solid {
+	border-top: 3px solid #bbb;
+  }
+  
+.footer{
+	background-color: #303A52 ;
+}
+
+.footerAbout{
+	padding-top: 100px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+}
+
+.footerSchedule{
+	padding-top: 20px;
+	padding-bottom: 100px;
+}
+
+/* do you know */
+
+.dyk{
+	padding-bottom: 80px;
+}
+.containerr {
+	position: relative;
+	text-align: center;
+	color: white;
+  }
+
+  /* Centered text */
+  .centered {
+		position: absolute;
+		top: 25%;
+		right: 18%;
+		left: 18%;
+	  }
+
+
+/* upcomming events */
+
+.ue{
+	background-color: #303A52;
+	color: white;
+	font-weight: 600;
+	font-size: 30px;
+	text-transform: uppercase;
+	padding-bottom: 80px;
+
+}
+
+.ue h1{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.ue img{
+	width: 300px;
 }
